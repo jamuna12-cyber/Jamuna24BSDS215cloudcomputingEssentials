@@ -1,6 +1,6 @@
-##Cloud Computing Essential##
+## Cloud Computing Essential##
 
-#Directory and File Structure#  
+# Directory and File Structure#  
 - Created a primary directory named "data_etl" with 12 subdirectories for each month. 
 - Added job scripts like "extract_sales_data.py", "transform_customer_data.py", and "load_orders-data.py" into respective month directories.  
 
