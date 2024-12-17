@@ -1,10 +1,10 @@
+##Cloud Computing Essential##
 
-
-#Directory and File Structure  
+#Directory and File Structure#  
 - Created a primary directory named "data_etl" with 12 subdirectories for each month. 
 - Added job scripts like "extract_sales_data.py", "transform_customer_data.py", and "load_orders-data.py" into respective month directories.  
 
-#File Operations 
+#File Operations#
 - Moved "transform_customer_data.py" from the "march" directory to the "may" directory to reorganize tasks.
 - Renamed "transform_customer_data.py" to "new_transform_customer_data.py" to reflect updated job processes. 
 
